@@ -1,4 +1,4 @@
-**Step 1: Installing VS Code **
+**Step 1: Installing VS Code**
 I already have VS Code on my computer but when I first downloaded it. 
 I went to the website and clicked "Downlead Mac Universal". After finished downloading,
 I follow the steps to install it. 
