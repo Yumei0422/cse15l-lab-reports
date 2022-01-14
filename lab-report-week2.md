@@ -24,4 +24,4 @@ First I generated a SSH key pair and saved it to my computer. Then I use scp to 
 **Step 6:Optimizing Remote Running**
 
 I tried to use the ls command on the remote server. It logged me into the remote server and displayed the files. 
-![Image](optimized command.png)
+![Image](optimized command .png)
