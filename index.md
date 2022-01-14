@@ -1,10 +1,9 @@
-Step 1: Installing VS Code 
-I already have VS Code on my computer but when I first downloaded it. I went to the website and clicked "Downlead Mac Universal". After finished downloading,
-I follow the steps to install it. 
-![Image](DownloadVS.png)
-Step 2: Remotely Connecting
-Step 3: Trying Some Commands
-Step 4: Moving Files with scp
-Step 5:Setting an SSH Key
-Step 6:Optimizing Remote Running
+Hello World!
+This is a new line. 
+![Image](Screenshot.png)
+[Cheatsheet](https://commonmark.org/help/)
+
+[Lab Report 1](lab-report-week2.md)
+
+[Lab Report 1](https://Yumei0422.github.io/cse15l-lab-reports/yumei.md)
 
