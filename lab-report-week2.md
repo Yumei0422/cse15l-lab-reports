@@ -6,12 +6,12 @@ I follow the steps to install it.
 ![Image](DownloadVS.png)
 **Step 2: Remotely Connecting**
 
-I looked up my account on the website, and enter the "ssh cs15lwi22ayd@ieng6.ucsd.edu" command to my terminal 
+I looked up my account on the website, and enter the "ssh cs15lwi22ayd@ieng6.ucsd.edu" command to my terminal, and it shows that I am connected to the remote server
 ![Image](RemoteConnection.png)
 **Step 3: Trying Some Commands**
 
 I ran the commands and some leads to a particular directory path and the cp and cat shows as permission denied. I think it's because I don't have access to these files in the remote server. 
-![Image](Try Commands.png)
+![Image](TryCommands.png)
 
 **Step 4: Moving Files with scp**
 
@@ -24,4 +24,4 @@ First I generated a SSH key pair and saved it to my computer. Then I use scp to 
 **Step 6:Optimizing Remote Running**
 
 I tried to use the ls command on the remote server. It logged me into the remote server and displayed the files. 
-![Image](optimized command .png)
+![Image](Optimized.png)
