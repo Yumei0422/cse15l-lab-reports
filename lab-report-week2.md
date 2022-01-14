@@ -12,6 +12,7 @@ I looked up my account on the website, and enter the "ssh cs15lwi22ayd@ieng6.ucs
 
 I ran the commands and some leads to a particular directory path and the cp and cat shows as permission denied. I think it's because I don't have access to these files in the remote server. 
 ![Image](Try Commands.png)
+
 **Step 4: Moving Files with scp**
 
 I created the java file and use the scp command to move my files to the remote server. Wait until it shows that the trasfer is compelte. The I use the ls command to make sure that the file is successfully transfered. 
